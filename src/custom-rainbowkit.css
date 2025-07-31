@@ -1,0 +1,5 @@
+.rk-button, .rk-connect-button, .rk-wallet-option__name, .rk-account-button__label {
+  font-family: 'VT323', monospace !important;
+  font-size: 18px;
+  color: #aaffcc !important;
+}

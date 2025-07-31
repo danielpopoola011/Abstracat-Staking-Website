@@ -1,0 +1,16 @@
+@import "@fontsource/vt323"; /* pixel font must be first */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'VT323', monospace;
+  color: #aaffcc;
+  background-image: url('/bg.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
